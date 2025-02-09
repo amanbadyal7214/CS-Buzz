@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Hannah Schmitt",
+        "category":"Review",
+        "image":"https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp",
+        
+        "title":"Lead design",
+        "subtitle":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore, porro aut culpa odio, molestiae ipsa expedita, iusto odit earum vel enim voluptatum unde non adipisci deleniti fugiat? Et, ut?"
+    },
+    {
+        "id":2,
+        "name":"Hannah Schmitt",
+        "category":"Review",
+        "image":"image/p1.png",
+        "title":"Lead design",
+        "subtitle":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore, porro aut culpa odio, molestiae ipsa expedita, iusto odit earum vel enim voluptatum unde non adipisci deleniti fugiat? Et, ut?"
+    },
+    {
+        "id":3,
+        "name":"Hannah Schmitt",
+        "category":"Review",
+        "image":"image/p2.png",
+        "title":"Lead design",
+        "subtitle":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore, porro aut culpa odio, molestiae ipsa expedita, iusto odit earum vel enim voluptatum unde non adipisci deleniti fugiat? Et, ut? "
+    }
+]
